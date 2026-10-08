@@ -1,4 +1,4 @@
-# 自用 VRChat VPM 插件列表
+# 自用VPM列表
 
 按 VRChat 官方 [vpm-listing-curated](https://github.com/vrchat-community/vpm-listing-curated) 的结构维护的个人 VPM 列表。
 
@@ -7,7 +7,7 @@
 在 VCC（VRChat Creator Companion）里：Settings → Packages → Add Repository，粘贴：
 
 ```
-https://<你的GitHub用户名>.github.io/<仓库名>/index.json
+https://airenburen.github.io/Personal-VRC-plugin-list/index.json
 ```
 
 ## 怎么加/改包
