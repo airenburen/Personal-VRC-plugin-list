@@ -1,0 +1,18 @@
+{
+    "name":"自用 VPM 列表",
+    "id":"com.ainburen.repos.custom",
+    "description":"我自己维护的 VPM 插件列表",
+    "author":{
+        "email":"",
+        "name":"ainburen",
+        "url":"https://gitee.com/ainburen"
+    },
+    "infoLink":{
+        "url":"https://gitee.com/ainburen/ziyongvrcchajianliebiao",
+        "text":"查看源码"
+    },
+    "bannerUrl":"banner.png",
+    "url":"https://ainburen.github.io/ziyongvrcchajianliebiao/index.json",
+    "githubRepos":[],
+    "packages":[]
+}
