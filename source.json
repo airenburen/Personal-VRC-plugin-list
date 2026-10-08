@@ -13,6 +13,9 @@
     },
     "bannerUrl":"banner.png",
     "url":"https://airenburen.github.io/Personal-VRC-plugin-list/index.json",
-    "githubRepos":[],
+    "githubRepos":[
+        "lyuma/Av3Emulator",
+        "FACS01-01/FACS_Utilities"
+    ],
     "packages":[]
 }
